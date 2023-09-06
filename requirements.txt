@@ -1,5 +1,5 @@
-mmcv==0.2.13
-numpy==1.17
+mmcv
+numpy
 matplotlib
 six
 terminaltables
@@ -7,4 +7,4 @@ pycocotools
 torch>=1.1
 torchvision
 imagecorruptions
-pillow==6.1
+pillow
